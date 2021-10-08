@@ -2,7 +2,7 @@
 
 ### Front-end developer
 
-[Github](https://gist.github.com/darhonbek/208df5a3113fa73e1f03647b407be1e7)  |  [LinkedIn](https://www.linkedin.com/in/salimbek/)  |  [Email](mailto:karimbayevsalimbek@gmail.com)
+[Github]()  |  [LinkedIn](https://www.linkedin.com/in/salimbek/)  |  [Email](mailto:karimbayevsalimbek@gmail.com)
 
 Front-end Developer with experience working on projects involving JavaScript, React , Redux , various styling libraries , HTML/CSS Preprocessors (LESS/SASS), RESTful APIs, web optimization, and version control (Git).
 I also have experience working in Agile environments, on remote teams, and with various internal/external stakeholders.
