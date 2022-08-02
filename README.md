@@ -72,6 +72,6 @@ Link website : [BiznesRivoj](https://www.biznesrivoj.uz/)
 
 # LANGUAGES
 - Uzbek - Fluent
-- English - Intermediate 
-- Russian - Intermediate
+- English - Upper-Intermediate 
+- Russian - Fluent
 
