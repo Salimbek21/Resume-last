@@ -15,6 +15,7 @@ I also have experience working in Agile environments, on remote teams, and with 
 - **CSS frameworks** : Ant-design, Bootstrap, Materialize
 - **Additional** : Experience with collaborative development tools (Git , GitHub , Gitlab, Azure repos) , Webpack , Postman , Swagger , Yarn & NPM packages MS Teams , Slack JIRA , pm2
 - **OS** : MacOS, Windows, 7 Ubuntu 16.04, 17.01. 
+- **Unit testing** : Jest
 
 # Experience 
 
