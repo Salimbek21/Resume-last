@@ -20,22 +20,25 @@ I also have experience working in Agile environments, on remote teams, and with 
 
 **Avtech** | Tashkent | Front-end Developer | September 2021 - **Present**
 
-- Found the right solution to the Bugs
-- Frontend Standart Library future reuse in other modules
-- Optimizing Images
-- Added Regex(Regular Expression) to the inputs
-- Converting from class component to functional component
-- Optimizing components
-- Fixing Paginationproblem | When click after 10th page and product editing then pagination shows first page
-- Performance optimization
+- Building complex web applications from scratch, supporting and
+modernizing legacy applications
+- Migrating legacy projects from class-basic  to functional-component , using Web components solution step by step.
+- We used for deployment CI/CD to the any projects.
+- I provided support for 3 projects at the same time.
+- Added i18-next to support multiple languages for Russian and Uzbek 
+users
+- Added for state management Redux 
+- Used new technologies to add new features to projects
+
 
 **Nolbir** | C-space - Tashkent | Front-end Developer | April 2021 – August 2021 - Contractor from **Nolbir**
 
-- Code reviewing
-- Optimizing components
-- Performance optimization 
-- Creating booking system 
-- Build the admin module
+- Building complex web applications from scratch, supporting and
+modernizing legacy applications.
+- Code review and giving feedbacks to team workers
+- Supporting a lot of projects
+- Used to build web projects from Reactjs , Redux , Nextjs.
+- Web vitals. 
 
 
 **Hopemedical** - Tashkent | Frontend developer | May 2020 - Contractor from **Nolbir** | 
